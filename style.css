@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  
+}
+
+.topheader {
+	background-size: cover;
+	background-image: url('http://1.bp.blogspot.com/_qAu8DNz_aI0/TT7NqieJhAI/AAAAAAAAAEA/xIJr0vJL4LE/s1600/mountains_pic_for_wiki.jpg');
+	background-repeat: no-repeat;
+	border-top: 1em solid #ffcf33;
+	padding: 8em 0em;
+
+}
+
+#intro {
+	font-size: 2em; 
+	font-family: Arial;
+	color: #fff;
+	margin: 0em;
+	text-align: center;
+
+}
+
+#name {
+	font-size: 6em;
+	font-family: Arial;
+	color: #fff;
+	text-transform: uppercase;
+	margin: 0em;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+.heading {
+  font-weight: bold;
+  font-size: 2em;
+  text-decoration: underline;
+
+}
+
+p, .question {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40em;
+}
+
+.question {
+  font-size: 1.4em;
+  font-weight: bold;
+  color:#fe5607;
+}
+
+.introduction,
+.about {
+  max-width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+  
